@@ -13,7 +13,7 @@ function custom_change_free_label($label, $post_id) {
     $course_meta = get_post_meta($post_id, '_sfwd-courses', true);
     $access_mode = isset($course_meta['sfwd-courses_course_price_type']) ? $course_meta['sfwd-courses_course_price_type'] : '';
 
-    if ($access_mode === 'free') {
+    if ($access_mode === 'Free') {
         return 'Members Only';
     }
 
