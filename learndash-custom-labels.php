@@ -3,7 +3,7 @@
 Plugin Name: LearnDash Custom Labels
 Plugin URI: https://github.com/initcron/wp-sofd-customizations
 Description: This plugin changes the label for "Free" courses to "Members Only" in LearnDash.
-Version: 1.0
+Version: 1.1
 Author: Gourav Shah
 Author URI: https://schoolofdevops.com
 License: GPL2
